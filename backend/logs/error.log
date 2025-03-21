@@ -1,0 +1,54 @@
+2025-03-05 02:05:53:553 [31merror[39m: [31mError connecting to database: Access denied for user 'root'@'localhost' (using password: YES)[39m
+2025-03-05 02:09:18:918 [31merror[39m: [31mError connecting to database: Access denied for user 'root'@'localhost' (using password: YES)[39m
+2025-03-05 02:18:16:1816 [31merror[39m: [31mError connecting to database: Access denied for user 'root'@'localhost' (using password: YES)[39m
+2025-03-05 02:26:07:267 [31merror[39m: [31mError connecting to database: Access denied for user 'root'@'localhost' (using password: NO)[39m
+2025-03-05 02:26:07:267 [31merror[39m: [31mError connecting to database: Access denied for user 'root'@'localhost' (using password: NO)[39m
+2025-03-05 02:27:44:2744 [31merror[39m: [31mError connecting to database: Access denied for user 'root'@'localhost' (using password: NO)[39m
+2025-03-05 02:29:50:2950 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:30:32:3032 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:32:19:3219 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:35:42:3542 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:36:12:3612 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:37:55:3755 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:41:51:4151 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:44:39:4439 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:55:04:554 [31merror[39m: [31mError connecting to database: Access denied for user 'root'@'localhost' (using password: NO)[39m
+2025-03-05 02:55:17:5517 [31merror[39m: [31mError connecting to database: Access denied for user 'root'@'localhost' (using password: NO)[39m
+2025-03-05 02:55:55:5555 [31merror[39m: [31mError connecting to database: Access denied for user 'root'@'localhost' (using password: NO)[39m
+2025-03-05 02:56:36:5636 [31merror[39m: [31mError connecting to database: Access denied for user 'root'@'localhost' (using password: NO)[39m
+2025-03-05 02:59:22:5922 [31merror[39m: [31mError: Resource not found - /favicon.ico[39m
+[31mError: Resource not found - /favicon.ico[39m
+[31m    at notFound (C:\PBL5 AIcode2.0\backend\src\utils\errorHandler.ts:65:17)[39m
+[31m    at Layer.handle [as handle_request] (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at trim_prefix (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:328:13)[39m
+[31m    at C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:286:9[39m
+[31m    at Function.process_params (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at urlencodedParser (C:\PBL5 AIcode2.0\backend\node_modules\body-parser\lib\types\urlencoded.js:94:7)[39m
+[31m    at Layer.handle [as handle_request] (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at trim_prefix (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:328:13)[39m
+[31m    at C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:286:9[39m
+2025-03-05 02:59:41:5941 [31merror[39m: [31mError: Resource not found - /[39m
+[31mError: Resource not found - /[39m
+[31m    at notFound (C:\PBL5 AIcode2.0\backend\src\utils\errorHandler.ts:65:17)[39m
+[31m    at Layer.handle [as handle_request] (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at trim_prefix (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:328:13)[39m
+[31m    at C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:286:9[39m
+[31m    at Function.process_params (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at urlencodedParser (C:\PBL5 AIcode2.0\backend\node_modules\body-parser\lib\types\urlencoded.js:94:7)[39m
+[31m    at Layer.handle [as handle_request] (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at trim_prefix (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:328:13)[39m
+[31m    at C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:286:9[39m
+2025-03-17 16:55:17:5517 [31merror[39m: [31mError: Resource not found - /favicon.ico[39m
+[31mError: Resource not found - /favicon.ico[39m
+[31m    at notFound (C:\PBL5 AIcode2.0\backend\dist\utils\errorHandler.js:54:19)[39m
+[31m    at Layer.handle [as handle_request] (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at trim_prefix (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:328:13)[39m
+[31m    at C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:286:9[39m
+[31m    at Function.process_params (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at urlencodedParser (C:\PBL5 AIcode2.0\backend\node_modules\body-parser\lib\types\urlencoded.js:94:7)[39m
+[31m    at Layer.handle [as handle_request] (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at trim_prefix (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:328:13)[39m
+[31m    at C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:286:9[39m

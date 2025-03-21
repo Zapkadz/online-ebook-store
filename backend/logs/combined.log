@@ -1,0 +1,204 @@
+2025-03-05 02:05:53:553 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:05:53:553 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:05:53:553 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:05:53:553 [31merror[39m: [31mError connecting to database: Access denied for user 'root'@'localhost' (using password: YES)[39m
+2025-03-05 02:09:18:918 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:09:18:918 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:09:18:918 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:09:18:918 [31merror[39m: [31mError connecting to database: Access denied for user 'root'@'localhost' (using password: YES)[39m
+2025-03-05 02:18:16:1816 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:18:16:1816 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:18:16:1816 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:18:16:1816 [31merror[39m: [31mError connecting to database: Access denied for user 'root'@'localhost' (using password: YES)[39m
+2025-03-05 02:26:07:267 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:26:07:267 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:26:07:267 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:26:07:267 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:26:07:267 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:26:07:267 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:27:44:2744 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:27:44:2744 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:27:44:2744 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:29:47:2947 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:29:47:2947 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:29:47:2947 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:29:50:2950 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:30:29:3029 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:30:29:3029 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:30:29:3029 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:30:32:3032 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:32:16:3216 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 02:32:16:3216 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:32:16:3216 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:32:16:3216 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:32:19:3219 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:35:39:3539 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 02:35:40:3540 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:35:40:3540 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:35:40:3540 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:35:42:3542 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:36:09:369 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 02:36:09:369 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:36:09:369 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:36:09:369 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:36:12:3612 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:37:52:3752 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 02:37:52:3752 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:37:52:3752 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:37:52:3752 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:37:55:3755 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:41:48:4148 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 02:41:48:4148 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:41:48:4148 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:41:48:4148 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:41:51:4151 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:44:35:4435 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 02:44:36:4436 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:44:36:4436 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:44:36:4436 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:44:39:4439 [31merror[39m: [31mError connecting to database: getaddrinfo ENOTFOUND admin[39m
+2025-03-05 02:55:03:553 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 02:55:04:554 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:55:04:554 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:55:04:554 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:55:16:5516 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 02:55:17:5517 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:55:17:5517 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:55:17:5517 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:55:54:5554 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 02:55:55:5555 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:55:55:5555 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:55:55:5555 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:56:35:5635 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 02:56:36:5636 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:56:36:5636 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:56:36:5636 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:59:14:5914 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 02:59:14:5914 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 02:59:14:5914 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 02:59:14:5914 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 02:59:14:5914 [32minfo[39m: [32mDatabase connection successful[39m
+2025-03-05 02:59:14:5914 [32minfo[39m: [32mMySQL Server Version: 8.0.41[39m
+2025-03-05 02:59:14:5914 [32minfo[39m: [32mDatabase access verified[39m
+2025-03-05 02:59:22:5922 [35mhttp[39m: [35m::1 - - [04/Mar/2025:19:59:22 +0000] "GET /api HTTP/1.1" 200 902 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"[39m
+2025-03-05 02:59:22:5922 [31merror[39m: [31mError: Resource not found - /favicon.ico[39m
+[31mError: Resource not found - /favicon.ico[39m
+[31m    at notFound (C:\PBL5 AIcode2.0\backend\src\utils\errorHandler.ts:65:17)[39m
+[31m    at Layer.handle [as handle_request] (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at trim_prefix (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:328:13)[39m
+[31m    at C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:286:9[39m
+[31m    at Function.process_params (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at urlencodedParser (C:\PBL5 AIcode2.0\backend\node_modules\body-parser\lib\types\urlencoded.js:94:7)[39m
+[31m    at Layer.handle [as handle_request] (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at trim_prefix (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:328:13)[39m
+[31m    at C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:286:9[39m
+2025-03-05 02:59:22:5922 [35mhttp[39m: [35m::1 - - [04/Mar/2025:19:59:22 +0000] "GET /favicon.ico HTTP/1.1" 404 1147 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"[39m
+2025-03-05 02:59:41:5941 [31merror[39m: [31mError: Resource not found - /[39m
+[31mError: Resource not found - /[39m
+[31m    at notFound (C:\PBL5 AIcode2.0\backend\src\utils\errorHandler.ts:65:17)[39m
+[31m    at Layer.handle [as handle_request] (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at trim_prefix (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:328:13)[39m
+[31m    at C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:286:9[39m
+[31m    at Function.process_params (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at urlencodedParser (C:\PBL5 AIcode2.0\backend\node_modules\body-parser\lib\types\urlencoded.js:94:7)[39m
+[31m    at Layer.handle [as handle_request] (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at trim_prefix (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:328:13)[39m
+[31m    at C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:286:9[39m
+2025-03-05 02:59:41:5941 [35mhttp[39m: [35m::1 - - [04/Mar/2025:19:59:41 +0000] "GET / HTTP/1.1" 404 1125 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"[39m
+2025-03-05 03:02:26:226 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 03:02:27:227 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 03:02:27:227 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 03:02:27:227 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 03:02:27:227 [32minfo[39m: [32mDatabase connection successful[39m
+2025-03-05 03:02:27:227 [32minfo[39m: [32mMySQL Server Version: 8.0.41[39m
+2025-03-05 03:02:27:227 [32minfo[39m: [32mDatabase access verified[39m
+2025-03-05 03:03:50:350 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 03:03:51:351 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 03:03:51:351 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 03:03:51:351 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 03:03:51:351 [32minfo[39m: [32mDatabase connection successful[39m
+2025-03-05 03:03:51:351 [32minfo[39m: [32mMySQL Server Version: 8.0.41[39m
+2025-03-05 03:03:51:351 [32minfo[39m: [32mDatabase access verified[39m
+2025-03-05 03:04:02:42 [35mhttp[39m: [35m::1 - - [04/Mar/2025:20:04:02 +0000] "GET / HTTP/1.1" 200 2772 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"[39m
+2025-03-05 03:04:08:48 [35mhttp[39m: [35m::1 - - [04/Mar/2025:20:04:08 +0000] "GET /api HTTP/1.1" 200 1057 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"[39m
+2025-03-05 03:04:18:418 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 03:04:19:419 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 03:04:19:419 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 03:04:19:419 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 03:04:19:419 [32minfo[39m: [32mDatabase connection successful[39m
+2025-03-05 03:04:19:419 [32minfo[39m: [32mMySQL Server Version: 8.0.41[39m
+2025-03-05 03:04:19:419 [32minfo[39m: [32mDatabase access verified[39m
+2025-03-05 03:09:16:916 [32minfo[39m: [32mCreating required directories...[39m
+2025-03-05 03:09:16:916 [32minfo[39m: [32mDirectory already exists: public[39m
+2025-03-05 03:09:16:916 [32minfo[39m: [32mCreated directory: uploads[39m
+2025-03-05 03:09:16:916 [32minfo[39m: [32mDirectory already exists: logs[39m
+2025-03-05 03:09:16:916 [32minfo[39m: [32mCreated directory: uploads/books[39m
+2025-03-05 03:09:16:916 [32minfo[39m: [32mCreated directory: uploads/covers[39m
+2025-03-05 03:09:16:916 [32minfo[39m: [32mCreated directory: uploads/temp[39m
+2025-03-05 03:09:16:916 [32minfo[39m: [32mDirectory setup completed[39m
+2025-03-05 03:09:22:922 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 03:09:23:923 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 03:09:23:923 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 03:09:23:923 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 03:09:23:923 [32minfo[39m: [32mDatabase connection successful[39m
+2025-03-05 03:09:23:923 [32minfo[39m: [32mMySQL Server Version: 8.0.41[39m
+2025-03-05 03:09:23:923 [32minfo[39m: [32mDatabase access verified[39m
+2025-03-05 03:09:27:927 [35mhttp[39m: [35m::1 - - [04/Mar/2025:20:09:27 +0000] "GET /api HTTP/1.1" 200 1057 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"[39m
+2025-03-05 03:09:27:927 [35mhttp[39m: [35m::1 - - [04/Mar/2025:20:09:27 +0000] "GET /favicon.ico HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"[39m
+2025-03-05 08:25:11:2511 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 08:25:11:2511 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 08:25:11:2511 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 08:25:11:2511 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 08:25:11:2511 [32minfo[39m: [32mDatabase connection successful[39m
+2025-03-05 08:25:11:2511 [32minfo[39m: [32mMySQL Server Version: 8.0.41[39m
+2025-03-05 08:25:11:2511 [32minfo[39m: [32mDatabase access verified[39m
+2025-03-05 08:25:16:2516 [35mhttp[39m: [35m::1 - - [05/Mar/2025:01:25:16 +0000] "GET /api HTTP/1.1" 200 1057 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"[39m
+2025-03-05 08:25:16:2516 [35mhttp[39m: [35m::1 - - [05/Mar/2025:01:25:16 +0000] "GET /favicon.ico HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"[39m
+2025-03-05 09:00:44:044 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 09:00:44:044 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 09:00:44:044 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 09:00:44:044 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 09:00:45:045 [32minfo[39m: [32mDatabase connection successful[39m
+2025-03-05 09:00:45:045 [32minfo[39m: [32mMySQL Server Version: 8.0.41[39m
+2025-03-05 09:00:45:045 [32minfo[39m: [32mDatabase access verified[39m
+2025-03-05 09:11:08:118 [35mhttp[39m: [35m::1 - - [05/Mar/2025:02:11:08 +0000] "GET /api HTTP/1.1" 200 1057 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"[39m
+2025-03-05 09:11:09:119 [35mhttp[39m: [35m::1 - - [05/Mar/2025:02:11:09 +0000] "GET /favicon.ico HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"[39m
+2025-03-05 10:17:45:1745 [32minfo[39m: [32mDatabase config:[39m
+2025-03-05 10:17:46:1746 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-05 10:17:46:1746 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-05 10:17:46:1746 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-05 10:17:46:1746 [32minfo[39m: [32mDatabase connection successful[39m
+2025-03-05 10:17:46:1746 [32minfo[39m: [32mMySQL Server Version: 8.0.41[39m
+2025-03-05 10:17:46:1746 [32minfo[39m: [32mDatabase access verified[39m
+2025-03-12 09:42:03:423 [32minfo[39m: [32mDatabase config:[39m
+2025-03-12 09:42:04:424 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-12 09:42:04:424 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-12 09:42:04:424 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-12 09:42:05:425 [32minfo[39m: [32mDatabase connection successful[39m
+2025-03-12 09:42:05:425 [32minfo[39m: [32mMySQL Server Version: 8.0.41[39m
+2025-03-12 09:42:05:425 [32minfo[39m: [32mDatabase access verified[39m
+2025-03-12 09:42:13:4213 [35mhttp[39m: [35m::1 - - [12/Mar/2025:02:42:13 +0000] "GET /api HTTP/1.1" 200 1057 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"[39m
+2025-03-12 09:42:13:4213 [35mhttp[39m: [35m::1 - - [12/Mar/2025:02:42:13 +0000] "GET /favicon.ico HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"[39m
+2025-03-17 16:55:07:557 [32minfo[39m: [32mDatabase config:[39m
+2025-03-17 16:55:07:557 [32minfo[39m: [32mServer is running on port 5000[39m
+2025-03-17 16:55:07:557 [32minfo[39m: [32mEnvironment: development[39m
+2025-03-17 16:55:07:557 [32minfo[39m: [32mAPI Documentation available at: http://localhost:5000/api[39m
+2025-03-17 16:55:07:557 [32minfo[39m: [32mDatabase connection successful[39m
+2025-03-17 16:55:07:557 [32minfo[39m: [32mMySQL Server Version: 8.0.41[39m
+2025-03-17 16:55:07:557 [32minfo[39m: [32mDatabase access verified[39m
+2025-03-17 16:55:17:5517 [35mhttp[39m: [35m::1 - - [17/Mar/2025:09:55:17 +0000] "GET /api HTTP/1.1" 200 902 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"[39m
+2025-03-17 16:55:17:5517 [31merror[39m: [31mError: Resource not found - /favicon.ico[39m
+[31mError: Resource not found - /favicon.ico[39m
+[31m    at notFound (C:\PBL5 AIcode2.0\backend\dist\utils\errorHandler.js:54:19)[39m
+[31m    at Layer.handle [as handle_request] (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at trim_prefix (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:328:13)[39m
+[31m    at C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:286:9[39m
+[31m    at Function.process_params (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at urlencodedParser (C:\PBL5 AIcode2.0\backend\node_modules\body-parser\lib\types\urlencoded.js:94:7)[39m
+[31m    at Layer.handle [as handle_request] (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at trim_prefix (C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:328:13)[39m
+[31m    at C:\PBL5 AIcode2.0\backend\node_modules\express\lib\router\index.js:286:9[39m
+2025-03-17 16:55:17:5517 [35mhttp[39m: [35m::1 - - [17/Mar/2025:09:55:17 +0000] "GET /favicon.ico HTTP/1.1" 404 1148 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"[39m
